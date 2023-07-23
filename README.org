@@ -1,0 +1,10 @@
+* py-configparser
+
+This package provides the same functionality as the Python
+configparser module, implemented in pure Common Lisp.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/mtstickney/py-configparser.git |
+| commit  | a54346f                                               |
+| systems | py-configparser                                       |
+|---------+-------------------------------------------------------|
